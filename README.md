@@ -1,12 +1,42 @@
-## Welcome to GitHub Pages
+## My Art Portfolio
 
 You can use the [editor on GitHub](https://github.com/Hibah-Ali/hibah-ali.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Computer Aided Designs:
+
+
+AutoCAD Software
+
+### Fabric
+
+Medium: colored pencils, watercolor pencils, watercolor, 
+fabric
+
+### Spray paint Assemblage
+
+
+### Printmaking
+
+acryllic paints, 
+
+
+### Paul Cezanne fruits experimentation
+This work was an exploration on still life genre and cre
+
+
+Acryllic paint, colored pencil
+
+
+### Charcoal
+
+
+###
+The race against time
+
+
 
 ```markdown
 Syntax highlighted code block
