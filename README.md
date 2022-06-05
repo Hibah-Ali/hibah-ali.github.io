@@ -1,5 +1,5 @@
 ```
-[Home](https://hibah-ali.github.io/)    |   [About](hibahalei@gmail.com)    |   [Email]
+[Home](https://hibah-ali.github.io/)    |   [Email](hibahalei@gmail.com)   
 ```
 
 ## Computer Aided Designs:
