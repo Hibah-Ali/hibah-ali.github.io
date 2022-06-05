@@ -1,6 +1,8 @@
 ```
 [Home](https://hibah-ali.github.io/)    |   [Email](https://hibah-ali.github.io/)   |   [About](https://hibah-ali.github.io/)
 ```
+_hibahalei@gmail.com_
+
 
 ## Computer Aided Designs:
 
@@ -37,19 +39,8 @@ Acryllic paint, colored pencil
 ###
 The race against time
 
+### Poverty (A Series)
+```
+images
 
-[website](https://hibah-ali.github.io/)
-
-```markdown
-Other Contact Information
-
-# Email
-## fine
-### few
-
-_hibahalei@gmail.com_
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
