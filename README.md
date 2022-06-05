@@ -11,7 +11,7 @@ _hibahalei@gmail.com_
 
 ## Fabric
 
-![](
+![](IMG_1972.jpg)
 
 ### Medium: colored pencils, watercolor pencils, watercolor, 
 fabric
