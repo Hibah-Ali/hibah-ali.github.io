@@ -42,12 +42,14 @@ Won the art competition Second Place
 ### Charcoal
 ![](IMG_2126.jpg)
 
-### Printmaking
-_"The Elemental Dragon"_
+## Linocut Printmaking
+### _"The Elemental Dragon"_
 ![](IMG_2071.jpg)
+I created a random pattern in the first piece with blue and yellow acryllic paint. In the second piece I went for an ombre effect with red and blue paint to define the water and fire elements, and drew them in with colored pencil to emphasize this theme. In the third piece, I created two ombre pieces and cut them to create a collage type of piece to bring together all of the elements of design for a finished piece. 
 
-### Graphic Design
-## AutoCAD
+## Graphic Design
+### AutoCAD
+
 ### Sketchbook Pages
 1             |  2
 :-------------------------:|:-------------------------:
