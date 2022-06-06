@@ -2,7 +2,7 @@
 [Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com)   |   [About]()
 <hr>
 ```
-Experimenting With Textiles
+Textile
 ```
 
 ![](IMG_1972.jpg)
@@ -23,10 +23,11 @@ Acryllic paint, colored pencil
 ## A Series
 _"The Race Against Time"_
 ![](IMG_2067.jpg) ![](IMG_2084.jpg)
-
-## Watercolor 
-Landscape
+```
+## Watercolor Seascape
+```
 ![](IMG_2123.jpg)
+
 
 ## Charcoal
 ![](IMG_2124.jpg)
