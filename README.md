@@ -50,7 +50,7 @@ _"The Elemental Dragon"_
 
 
 
-### Poverty (A Series)
+### Poverty (A Series) 
 ```
 ![](IMG_2066.jpg) IMG_2064.jpg IMG_2065.jpg
 ![](IMG_2049 2.heic)
