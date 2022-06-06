@@ -24,15 +24,15 @@ Pointillism
 <hr>
 
 ```
-Charcoal and Zentangle
-```
-![](IMG_2124.jpg)
-<hr>
-
-```
 Radial Balance
 ```
 ![](IMG_2126.jpg)
+<hr>
+
+```
+Charcoal and Zentangle
+```
+![](IMG_2124.jpg)
 <hr>
 
 ```
