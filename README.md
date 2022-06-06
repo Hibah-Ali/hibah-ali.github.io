@@ -31,7 +31,8 @@ This work was an exploration on still life genre and cre
 Acryllic paint, colored pencil
 
 
-### Charcoal
+### 
+## Charcoal
 
 
 ### The race against time
@@ -40,7 +41,7 @@ Acryllic paint, colored pencil
 
 ### Printmaking
 _"The Elemental Dragon"_
-![](IMG_2066.jpg) ![](IMG_2064.jpg) ![](IMG_2065.jpg)
+![](IMG_2071.jpg)
 
 ### Poverty (A Series)
 ```
