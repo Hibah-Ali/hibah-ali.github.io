@@ -18,7 +18,7 @@ fabric
 
 
 ### Pointillism
-![](IMG_2069.heic)
+![](IMG_2069.jpg)
 
 
 ###
