@@ -1,10 +1,10 @@
 ### Online Portfolio
 [Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com)   |   [About]()
-<br />
-
+<hr>
 ```
 Experimenting With Textiles
 ```
+
 ![](IMG_1972.jpg)
 The mediums used in this work are colored pencils, watercolor pencils, watercolor, created on a fabric support<br/>
 
@@ -22,7 +22,9 @@ Acryllic paint, colored pencil
 
 ## A Series
 _"The Race Against Time"_
-![](IMG_2067.jpg)  |  ![](IMG_2084.jpg)
+<hr>
+<img src="IMG_2067.jpg" width="425"/> <img src="IMG_2084.jpg" width="425"/> 
+![](IMG_2067.jpg) ![](IMG_2084.jpg)
 
 ## Watercolor 
 Landscape
