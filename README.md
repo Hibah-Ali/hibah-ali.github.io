@@ -1,5 +1,5 @@
-### Hibah
-[Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com)   |   [About](https://hibah-ali.github.io/)
+### Portfolio
+[Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com)   |   [About](https://hibah-ali.github.io/)<br />
 
 
 
@@ -9,8 +9,7 @@ Experimenting With Textiles
 ![](IMG_1972.jpg)
 
 ### Medium: colored pencils, watercolor pencils, watercolor, 
-fabric
-
+fabric <br/>
 
 ```
 Post Impressionism Artist: Paul Cezanne
