@@ -26,12 +26,8 @@ acryllic paints,
 
 
 ## Paul Cezanne fruits experimentation
-![](IMG_1959.heic)
-
+![](IMG_2070.jpg)
 This work was an exploration on still life genre and cre
-
-
-
 Acryllic paint, colored pencil
 
 
