@@ -2,23 +2,13 @@
 _hibahalei@gmail.com_
 
 
-## Computer Aided Designs:
 
-
-## Medium: AutoCAD Software
-
-## Fabric
-
+##
+###Textile
 ![](IMG_1972.jpg)
 
-### Medium: colored pencils, watercolor pencils, watercolor, 
+Medium: colored pencils, watercolor pencils, watercolor, 
 fabric
-
-## Spray paint Assemblage
-
-
-### Pointillism
-![](IMG_2069.jpg)
 
 
 ###
@@ -32,13 +22,19 @@ Acryllic paint, colored pencil
 
 
 ### 
-## Charcoal 
+Medium: Charcoal 
 
 
-### Series
+## A Series
 _"The Race Against Time"_
 ![](IMG_2067.jpg)
 ![](IMG_2084.jpg)
+
+
+
+## Spray paint Assemblage
+### Pointillism
+![](IMG_2069.jpg)
 
 
 
