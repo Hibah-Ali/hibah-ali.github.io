@@ -3,30 +3,42 @@
 
 <hr>
 
-### Pointillism
+```
+Pointillism
+```
 ![](IMG_2069.jpg)
 
 <hr>
 
-### Watercolor Seascape
+```
+Watercolor Seascape
+```
 ![](IMG_2123.jpg)
 
 <hr>
 
-### Textile
+```
+Textile
+```
 ![](IMG_1972.jpg)
 Medium: colored pencils, watercolor pencils, watercolor, fabric support.
 <hr>
 
-### Charcoal and Zentangle
+```
+Charcoal and Zentangle
+```
 ![](IMG_2124.jpg)
 <hr>
 
-### Radial Balance
+```
+Radial Balance
+```
 ![](IMG_2126.jpg)
 <hr>
 
-### Linocut Printmaking
+```
+Linocut Printmaking
+```
 ![](IMG_2071.jpg)
 _"The Elemental Dragons"_
 
@@ -73,14 +85,20 @@ Medium: spray paint, styrofoam, stencils created from paper, toothpick.
 ```
 Identity Sculpture
 ```
+1             |  2
+:-------------------------:|:-------------------------:
+  | 
 
+_"Gift"_
+This sculpture represents my name which means "Gift"
 
-
-## ART (BA)
-
-### AutoCAD
-
-### Adobe Fresco, Photoshop and After Effects
+### ART (BA)
+```
+AutoCAD
+```
+```
+Adobe Fresco, Photoshop and After Effects
+```
 
 
 
