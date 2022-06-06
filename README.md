@@ -1,3 +1,4 @@
+### Hibah
 [Home](https://hibah-ali.github.io/)    |   [Email](https://hibah-ali.github.io/)   |   [About](https://hibah-ali.github.io/)
 _hibahalei@gmail.com_
 
@@ -11,18 +12,13 @@ Medium: colored pencils, watercolor pencils, watercolor,
 fabric
 
 
-###
-acryllic paints, 
-
-
 ## Paul Cezanne fruits experimentation
 ![](IMG_2070.jpg)
 This work was an exploration on still life genre and cre
 Acryllic paint, colored pencil
-
+ 
 
 ### 
-Medium: Charcoal 
 
 
 ## A Series
@@ -34,9 +30,9 @@ _"The Race Against Time"_
 Landscape
 ![](IMG_2123.jpg)
 
-##
+## Charcoal
 ![](IMG_2124.jpg)
-
+Won the art competition Second Place
 
 ## Spray paint Assemblage
 ![](IMG_2110.jpg)
@@ -55,6 +51,10 @@ _"The Elemental Dragon"_
 
 ### Graphic Design
 ## AutoCAD
+
+
+
+### Sketchbook Pages
 
 
 
