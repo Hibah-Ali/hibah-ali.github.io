@@ -103,5 +103,7 @@ Adobe Fresco, Photoshop and After Effects
 
 ![](2_HALI_SquashStretchPose_Sept_17_21.gif)
 
+![](8_Timing_and_Secondary_Action.mp4)
+
 
 
