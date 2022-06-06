@@ -17,7 +17,9 @@ fabric
 ## Spray paint Assemblage
 
 
-## Printmaking
+### Pointillism
+![](IMG_2069.heic)
+
 
 ###
 acryllic paints, 
