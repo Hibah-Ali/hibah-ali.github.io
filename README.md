@@ -22,11 +22,6 @@ Acryllic paint, colored pencil
 
 ## A Series
 _"The Race Against Time"_
-<hr>
-<p float="left">
-  <img src="/IMG_2067.jpg" width="100" />
-  <img src="/IMG_2084.jpg" width="100" /> 
-</p>
 ![](IMG_2067.jpg) ![](IMG_2084.jpg)
 
 ## Watercolor 
