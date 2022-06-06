@@ -41,7 +41,8 @@ Won the art competition Second Place
 ### Pointillism
 ![](IMG_2069.jpg)
 
-##
+## Art Show
+### Charcoal
 ![](IMG_2126.jpg)
 
 
