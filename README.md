@@ -18,12 +18,6 @@ Medium: colored pencils, watercolor pencils, watercolor, fabric support.
 <hr>
 
 ```
-Pointillism
-```
-![](IMG_2069.jpg)
-<hr>
-
-```
 Radial Balance
 ```
 ![](IMG_2126.jpg)
@@ -45,6 +39,12 @@ Exploring a Theme: "The Race Against Time"
 Medium: fire to burn edges, colored pencil, pencil.
 ![](IMG_2067.jpg)
 Medium: pencil, watercolor pencils, paint marker, drywall board.
+<hr>
+
+```
+Pointillism
+```
+![](IMG_2069.jpg)
 <hr>
 
 ```
