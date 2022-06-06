@@ -3,15 +3,18 @@
 
 
 
-
-##
-###Textile
+```
+Experimenting With Textiles
+```
 ![](IMG_1972.jpg)
 
-Medium: colored pencils, watercolor pencils, watercolor, 
+### Medium: colored pencils, watercolor pencils, watercolor, 
 fabric
 
 
+```
+Post Impressionism Artist: Paul Cezanne
+```
 ## Paul Cezanne fruits experimentation
 ![](IMG_2070.jpg)
 This work was an exploration on still life genre and cre
@@ -23,8 +26,9 @@ Acryllic paint, colored pencil
 
 ## A Series
 _"The Race Against Time"_
-![](IMG_2067.jpg)
-![](IMG_2084.jpg)
+![](IMG_2067.jpg)  |  ![](IMG_2084.jpg)
+
+
 
 ## Watercolor 
 Landscape
@@ -56,7 +60,9 @@ _"The Elemental Dragon"_
 
 
 ### Sketchbook Pages
-
+1             |  2
+:-------------------------:|:-------------------------:
+  |  
 
 
 ### Poverty (A Series) 
