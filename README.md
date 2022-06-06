@@ -1,15 +1,16 @@
-### Portfolio
-[Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com)   |   [About](https://hibah-ali.github.io/)<br />
+### Online Portfolio
+[Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com)   |   [About](https://hibah-ali.github.io/)
+` `  
+` `
 
-
-
+![](IMG_1972.jpg)
 ```
 Experimenting With Textiles
 ```
-![](IMG_1972.jpg)
+
 
 ### Medium: colored pencils, watercolor pencils, watercolor, 
-fabric <br/>
+fabric<br/>
 
 ```
 Post Impressionism Artist: Paul Cezanne
@@ -27,8 +28,6 @@ Acryllic paint, colored pencil
 _"The Race Against Time"_
 ![](IMG_2067.jpg)  |  ![](IMG_2084.jpg)
 
-
-
 ## Watercolor 
 Landscape
 ![](IMG_2123.jpg)
@@ -40,7 +39,6 @@ Won the art competition Second Place
 ## Spray paint Assemblage
 ![](IMG_2110.jpg)
 
-
 ### Pointillism
 ![](IMG_2069.jpg)
 
@@ -48,21 +46,16 @@ Won the art competition Second Place
 ### Charcoal
 ![](IMG_2126.jpg)
 
-
 ### Printmaking
 _"The Elemental Dragon"_
 ![](IMG_2071.jpg)
 
 ### Graphic Design
 ## AutoCAD
-
-
-
 ### Sketchbook Pages
 1             |  2
 :-------------------------:|:-------------------------:
   |  
-
 
 ### Poverty (A Series) 
 ```
