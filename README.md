@@ -43,6 +43,11 @@ Acryllic paint, colored pencil
 _"The Elemental Dragon"_
 ![](IMG_2071.jpg)
 
+### Graphic Design
+## AutoCAD
+
+
+
 ### Poverty (A Series)
 ```
 ![](IMG_2066.jpg) IMG_2064.jpg IMG_2065.jpg
