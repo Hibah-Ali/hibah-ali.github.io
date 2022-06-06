@@ -30,6 +30,12 @@ _"The Race Against Time"_
 ![](IMG_2067.jpg)
 ![](IMG_2084.jpg)
 
+## Watercolor 
+Landscape
+![](IMG_2123.jpg)
+
+##
+![](IMG_2124.jpg)
 
 
 ## Spray paint Assemblage
@@ -39,6 +45,8 @@ _"The Race Against Time"_
 ### Pointillism
 ![](IMG_2069.jpg)
 
+##
+![](IMG_2126.jpg)
 
 
 ### Printmaking
