@@ -41,6 +41,7 @@ Acryllic paint, colored pencil
 ### The race against time
 ![](IMG_2067.jpg)
 
+
 ### Printmaking
 ![](IMG_2066.jpg) ![](IMG_2064.jpg) ![](IMG_2065.jpg)
 
