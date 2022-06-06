@@ -43,7 +43,7 @@ The race against time
 
 ### Poverty (A Series)
 ```
-![](IMG_2058 2.heic)
+![](Screen Shot 2022-06-05 at 8.15.59 PM.jpg)
 ![](IMG_2049 2.heic)
 ![](IMG_2040.heic)
 ```
