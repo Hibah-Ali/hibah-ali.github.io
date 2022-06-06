@@ -1,6 +1,6 @@
 ### Hibah
-[Home](https://hibah-ali.github.io/)    |   [Email](https://hibah-ali.github.io/)   |   [About](https://hibah-ali.github.io/)
-_hibahalei@gmail.com_
+[Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com)   |   [About](https://hibah-ali.github.io/)
+
 
 
 
