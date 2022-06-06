@@ -1,6 +1,4 @@
-```
 [Home](https://hibah-ali.github.io/)    |   [Email](https://hibah-ali.github.io/)   |   [About](https://hibah-ali.github.io/)
-```
 _hibahalei@gmail.com_
 
 
