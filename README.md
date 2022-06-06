@@ -3,6 +3,7 @@
 <hr>
 ## Pointillism
 ![](IMG_2069.jpg)
+
 <hr>
 ## Watercolor Seascape
 ![](IMG_2123.jpg)
