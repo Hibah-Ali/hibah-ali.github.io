@@ -1,19 +1,15 @@
 ### Online Portfolio
-[Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com)   |   [About](https://hibah-ali.github.io/)
-` `  
-` `
+[Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com)   |   [About]()
+<br />
 
-![](IMG_1972.jpg)
 ```
 Experimenting With Textiles
 ```
-
-
-### Medium: colored pencils, watercolor pencils, watercolor, 
-fabric<br/>
+![](IMG_1972.jpg)
+The mediums used in this work are colored pencils, watercolor pencils, watercolor, created on a fabric support<br/>
 
 ```
-Post Impressionism Artist: Paul Cezanne
+Post Impressionist Artist: Paul Cezanne
 ```
 ## Paul Cezanne fruits experimentation
 ![](IMG_2070.jpg)
@@ -57,9 +53,3 @@ _"The Elemental Dragon"_
 :-------------------------:|:-------------------------:
   |  
 
-### Poverty (A Series) 
-```
-![](IMG_2066.jpg) IMG_2064.jpg IMG_2065.jpg
-![](IMG_2049 2.heic)
-![](IMG_2040.heic)
-```
