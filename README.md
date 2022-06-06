@@ -37,8 +37,9 @@ Acryllic paint, colored pencil
 
 ### Series
 _"The Race Against Time"_
-
 ![](IMG_2067.jpg)
+![](IMG_2084.jpg)
+
 
 
 ### Printmaking
