@@ -101,7 +101,7 @@ AutoCAD
 Adobe Fresco, Photoshop and After Effects
 ```
 
-![](2_HALI_SquashStretchPose- September 17, 2021 (2).gif)
+![](2_HALI_SquashStretchPose_Sept_17_21.gif)
 
 
 
