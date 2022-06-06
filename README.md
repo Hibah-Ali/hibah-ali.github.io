@@ -41,11 +41,11 @@ Acryllic paint, colored pencil
 ###
 The race against time
 
-![](IMG_2066.jpg)
+![](IMG_2066.jpg) ![](IMG_2064.jpg) ![](IMG_2065.jpg)
 
 ### Poverty (A Series)
 ```
-![](IMG_2066.jpg)
+![](IMG_2066.jpg) IMG_2064.jpg IMG_2065.jpg
 ![](IMG_2049 2.heic)
 ![](IMG_2040.heic)
 ```
