@@ -139,6 +139,7 @@ Feet                       |  Upper Body              |
 ![](6_HALI.gif)            |  ![](7_Slowin_slowout.gif)|
 
 
+Character Design:
 ![](8_Timing_and_Secondary_Action.mp4)
 
 
