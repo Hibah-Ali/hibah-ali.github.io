@@ -9,6 +9,7 @@
 Watercolor Seascape
 ```
 ![](IMG_2123.jpg)
+
 Medium: watercolor and paper.
 <hr>
 
@@ -16,6 +17,7 @@ Medium: watercolor and paper.
 Surrealism
 ```
 ![](IMG_2146.jpg)
+
 Medium: graphite pencil and paper.
 <hr>
 
@@ -23,6 +25,7 @@ Medium: graphite pencil and paper.
 Textile
 ```
 ![](IMG_1972.jpg)
+
 Medium: colored pencils, watercolor pencils, watercolor, fabric support.
 
 <hr>
@@ -31,6 +34,7 @@ Medium: colored pencils, watercolor pencils, watercolor, fabric support.
 Radial Balance
 ```
 ![](IMG_2126.jpg)
+
 Medium: colored pencils, pen, tracing paper, paper.
 <hr>
 
