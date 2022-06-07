@@ -82,24 +82,19 @@ Personal Theme with 3D Assemblage
 ```
 Spray paint Assemblage
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](IMG_2178.jpg)          |  ![](IMG_2179.jpg)
+Page 1                     |  Page 2                  |Page 3                    |  Page 4
+:-------------------------:|:-------------------------:-------------------------:|:-------------------------:
+![](IMG_2178.jpg)          |  ![](IMG_2179.jpg)       |![](IMG_2180.jpg)         | ![](IMG_2187.jpg)
 
-
-
-![](IMG_2180.jpg)
+Final work:
 ![](IMG_2110.jpg)
-![](IMG_2187.jpg)
 
 Medium: spray paint, styrofoam, stencils created from paper, toothpick.
 
 ```
 Identity Sculpture
 ```
-1             |  2
-:-------------------------:|:-------------------------:
-  | 
+
 
 _"Gift"_
 This sculpture represents my name which means "Gift"
