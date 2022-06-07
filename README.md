@@ -101,10 +101,10 @@ Medium: spray paint, styrofoam, stencils created from paper, toothpick.
 ```
 Identity Sculpture
 ```
-
+![](IMG_2181.jpg)
 
 _"Gift"_
-This sculpture represents my name which means "Gift"
+This sculpture represents an aspect of my personal identity, which is my name, meaning "Gift".
 
 ### ART (BA)
 ```
