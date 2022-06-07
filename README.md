@@ -150,6 +150,22 @@ Medium: clay.
 ### ART (BA)
 
 ```
+AutoCAD
+```
+Defining and solving problems- Redesigning a school plan:
+
+Floor plans and furniture:
+
+-                 |  -                 |
+:-------------------------:|:-------------------------:
+![](-)         |  ![](-)       |
+
+
+Replicating art:
+
+
+<hr>
+```
 Adobe Fresco/ Photoshop and After Effects
 ```
 ![](2_HALI_SquashStretchPose_Sept_17_21.gif)
@@ -171,19 +187,5 @@ Feet                       |  Upper Body              |
 
 Timing and secondary action:
 ![](8_chara.gif)
-
-<hr>
-
-```
-AutoCAD
-```
-Floor plan & furniture:
-
--                 |  -                 |
-:-------------------------:|:-------------------------:
-![](-)         |  ![](-)       |
-
-
-Primitive shapes:
 
 <hr>
