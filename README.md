@@ -166,7 +166,7 @@ Floor plans and furniture:
 Replicating art:
 Replicating Art|Defining and solving problems (Redesigning a school plan):|
 :-------------------------:|:-------------------------:
-![](assignment7_HALI.jpg)| ![](Final_Project_HALI 13-Model 2.jpg)|
+![](assignment7_HALI.jpg)| ![](Final_Project_HALI.jpg)|
 
 
 <hr>
