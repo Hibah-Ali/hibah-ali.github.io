@@ -128,8 +128,16 @@ AutoCAD
 ```
 Adobe Fresco/ Photoshop and After Effects
 ```
-
 ![](2_HALI_SquashStretchPose_Sept_17_21.gif)
+
+Anticipation, overlap, and follow through:
+[](3_HALI_anticipation_followthrough_overlap.gif)
+
+Walk cycles
+Feet                       |  Upper Body                |
+:-------------------------:|:-------------------------:
+![](6_HALI.gif)            |  ![](7_Slowin_slowout.gif)|
+
 
 ![](8_Timing_and_Secondary_Action.mp4)
 
