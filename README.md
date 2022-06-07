@@ -1,5 +1,5 @@
 ## Online Portfolio
-[Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com)   |   [About]()
+[Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com) 
 
 <hr>
 <hr>
