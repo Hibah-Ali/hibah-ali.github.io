@@ -164,7 +164,7 @@ Floor plans and furniture:
 
 Replicating art:
 
-Replicating Art|Defining and solving problems (Redesigning a school plan):|
+Replicating Art|Defining and solving problems: Redesigning a school plan:|
 :-------------------------:|:-------------------------:
 ![](assignment7_HALI.jpg)| ![](Final_Project_HALI.jpg)|
 
@@ -173,6 +173,7 @@ Replicating Art|Defining and solving problems (Redesigning a school plan):|
 ```
 Adobe Fresco/ Photoshop and After Effects
 ```
+
 ![](2_HALI_SquashStretchPose_Sept_17_21.gif)
 
 <hr>
