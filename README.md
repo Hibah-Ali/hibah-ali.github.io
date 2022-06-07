@@ -77,6 +77,14 @@ Medium: charcoal, sharpie pen.
 <hr>
 
 ```
+Crochet
+```
+![](IMG_2124.jpg)
+
+<hr>
+
+
+```
 Freedom
 ```
 
@@ -135,19 +143,6 @@ Medium: clay.
 <hr>
 
 ### ART (BA)
-```
-AutoCAD
-```
-Floor plan & furniture:
-
-Sketchbook                 |  Final                 |
-:-------------------------:|:-------------------------:
-![](IMG_2181.jpg)         |  ![](IMG_2189.jpg)       |
-
-
-Primitive shapes:
-
-<hr>
 
 ```
 Adobe Fresco/ Photoshop and After Effects
@@ -172,4 +167,18 @@ Feet                       |  Upper Body              |
 Character Design:
 ![](8_Timing_and_Secondary_Action.mp4)
 
+<hr>
 
+```
+AutoCAD
+```
+Floor plan & furniture:
+
+Sketchbook                 |  Final                 |
+:-------------------------:|:-------------------------:
+![](IMG_2181.jpg)         |  ![](IMG_2189.jpg)       |
+
+
+Primitive shapes:
+
+<hr>
