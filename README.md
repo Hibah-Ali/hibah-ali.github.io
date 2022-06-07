@@ -127,9 +127,10 @@ Anticipation, overlap, and follow through:
 ![](3_HALI_anticipation_followthrough_overlap.gif)
 
 Walk cycles
-Feet                       |  Upper Body              
+
+Feet                       |  Upper Body              |
 :-------------------------:|:-------------------------:
-![](6_HALI.gif)            |  ![](7_Slowin_slowout.gif)
+![](6_HALI.gif)            |  ![](7_Slowin_slowout.gif)|
 
 
 Character Design:
