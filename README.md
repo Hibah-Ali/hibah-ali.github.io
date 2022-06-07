@@ -156,9 +156,10 @@ Defining and solving problems- Redesigning a school plan:
 
 Floor plans and furniture:
 
--                 |  -                 |
+
+![](CH3-PROJ2_HALIModel.jpg)|![](CH3_EXC1.jpg)      |
 :-------------------------:|:-------------------------:
-![](-)         |  ![](-)       |
+![](Project9-1-2_HALI.jpg)| ![](Dresser_Elevation_Midterm_Model.jpg)|
 
 
 Replicating art:
