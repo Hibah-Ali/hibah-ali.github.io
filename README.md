@@ -8,27 +8,23 @@ Watercolor Seascape
 ```
 ![](IMG_2123.jpg)
 
-<hr>
 
 ```
 Surrealism
 ```
 ![](IMG_2146.jpg)
 
-<hr>
 
 ```
 Textile
 ```
 ![](IMG_1972.jpg)
 Medium: colored pencils, watercolor pencils, watercolor, fabric support.
-<hr>
 
 ```
 Radial Balance
 ```
 ![](IMG_2126.jpg)
-<hr>
 
 ```
 Linocut Printmaking
@@ -37,7 +33,6 @@ Linocut Printmaking
 _"The Elemental Dragons"_
 
 Medium: elements of design, acryllic paint, colored pencil.
-<hr>
 
 ```
 Exploring a Theme: "The Race Against Time"
@@ -46,13 +41,11 @@ Exploring a Theme: "The Race Against Time"
 Medium: fire to burn edges, colored pencil, pencil.
 ![](IMG_2067.jpg)
 Medium: pencil, watercolor pencils, paint marker, drywall board.
-<hr>
 
 ```
 Pointillism
 ```
 ![](IMG_2069.jpg)
-<hr>
 
 ```
 Post Impressionist Artist: Paul Cezanne
@@ -60,13 +53,11 @@ Post Impressionist Artist: Paul Cezanne
 ![](IMG_2070.jpg)
 This work was inspired by Paul Cezanne's _Still Life with Apples and Pears_. The formalism of his artwork consisted of some elements that I used such as plates, pitcher, and the fruits. The value was low with lots of shading which I added to my work. The techniques used were layering colors to build up surfaces and outlining the forms for emphasis.
 Medium: Acryllic paint, colored pencil
-<hr>
 
 ```
 Charcoal and Zentangle
 ```
 ![](IMG_2124.jpg)
-<hr>
 
 ```
 Freedom
@@ -118,6 +109,8 @@ Sketchbook                 |  Final                 |
 _"Gift"_
 This sculpture represents an aspect of my personal identity, which is my name, meaning "Gift".
 
+<hr>
+
 ### ART (BA)
 ```
 AutoCAD
@@ -134,9 +127,9 @@ Anticipation, overlap, and follow through:
 ![](3_HALI_anticipation_followthrough_overlap.gif)
 
 Walk cycles
-Feet                       |  Upper Body              |
+Feet                       |  Upper Body              
 :-------------------------:|:-------------------------:
-![](6_HALI.gif)            |  ![](7_Slowin_slowout.gif)|
+![](6_HALI.gif)            |  ![](7_Slowin_slowout.gif)
 
 
 Character Design:
