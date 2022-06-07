@@ -97,8 +97,9 @@ AutoCAD
 ```
 
 
+
 ```
-Adobe Fresco, Photoshop and After Effects
+Adobe Fresco/ Photoshop and After Effects
 ```
 
 ![](2_HALI_SquashStretchPose_Sept_17_21.gif)
