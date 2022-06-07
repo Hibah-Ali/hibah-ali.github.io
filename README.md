@@ -8,14 +8,14 @@
 Watercolor Seascape
 ```
 ![](IMG_2123.jpg)
-
+Medium: watercolor and paper.
 <hr>
 
 ```
 Surrealism
 ```
 ![](IMG_2146.jpg)
-
+Medium: graphite pencil and paper.
 <hr>
 
 ```
@@ -30,7 +30,7 @@ Medium: colored pencils, watercolor pencils, watercolor, fabric support.
 Radial Balance
 ```
 ![](IMG_2126.jpg)
-
+Medium: colored pencils, pen, tracing paper, paper.
 <hr>
 
 ```
@@ -47,7 +47,7 @@ Medium: elements of design, acryllic paint, colored pencil.
 Exploring a Theme: "The Race Against Time"
 ```
 ![](IMG_2084.jpg)
-Medium: fire to burn edges, colored pencil, pencil.
+Medium: fire for burn effect, colored pencil, pencil.
 ![](IMG_2067.jpg)
 Medium: pencil, watercolor pencils, paint marker, drywall board.
 
@@ -57,7 +57,7 @@ Medium: pencil, watercolor pencils, paint marker, drywall board.
 Pointillism
 ```
 ![](IMG_2069.jpg)
-
+medium: markers, paper.
 <hr>
 
 ```
@@ -73,7 +73,7 @@ Medium: Acryllic paint, colored pencil
 Charcoal and Zentangle
 ```
 ![](IMG_2124.jpg)
-
+Medium: charcoal, sharpie pen.
 <hr>
 
 ```
@@ -87,6 +87,8 @@ Page 1                     |  Page 2                  |
 |Page 3                    |  Final work
 :-------------------------:|:-------------------------:
 |![](IMG_2185.jpg)         | ![](IMG_2190.jpg)
+
+Medium: charcoal, colored pencil, marker, paper support.
 
 <hr>
 <hr>
@@ -123,10 +125,11 @@ Sketchbook                 |  Final                 |
 :-------------------------:|:-------------------------:
 ![](IMG_2181.jpg)         |  ![](IMG_2189.jpg)       |
 
-<hr>
 
 _"Gift"_
 This sculpture represents an aspect of my personal identity, which is my name, meaning "Gift".
+
+Medium: clay. 
 
 <hr>
 <hr>
@@ -135,8 +138,14 @@ This sculpture represents an aspect of my personal identity, which is my name, m
 ```
 AutoCAD
 ```
+Floor plan & furniture:
+
+Sketchbook                 |  Final                 |
+:-------------------------:|:-------------------------:
+![](IMG_2181.jpg)         |  ![](IMG_2189.jpg)       |
 
 
+Primitive shapes:
 
 <hr>
 
