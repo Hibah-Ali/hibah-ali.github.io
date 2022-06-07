@@ -163,6 +163,7 @@ Floor plans and furniture:
 |![](Quiz4_EXC13-8_HALI-Model.jpg)|![](Assign5_rug.jpg)|
 
 Replicating art:
+
 Replicating Art|Defining and solving problems (Redesigning a school plan):|
 :-------------------------:|:-------------------------:
 ![](assignment7_HALI.jpg)| ![](Final_Project_HALI.jpg)|
