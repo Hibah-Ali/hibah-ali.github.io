@@ -157,11 +157,10 @@ AutoCAD
 Floor plans and furniture:
 
 
-![](CH3-PROJ2_HALIModel.jpg)|![](CH3_EXC1.jpg)      |
-:-------------------------:|:-------------------------:
-![](Project9-1-2_HALI.jpg)| ![](Dresser_Elevation_Midterm_Model.jpg)|
-:-------------------------:|:-------------------------:
-![](Quiz4_EXC13-8_HALI-Model.jpg)|![](Assign5_rug.jpg)|
+|![](CH3-PROJ2_HALIModel.jpg)|![](CH3_EXC1.jpg)      |
+|:-------------------------:|:-------------------------:|
+|![](Project9-1-2_HALI.jpg) | ![](Dresser_Elevation_Midterm_Model.jpg)|
+|![](Quiz4_EXC13-8_HALI-Model.jpg)|![](Assign5_rug.jpg)|
 
 Replicating art:
 Replicating Art|Defining and solving problems (Redesigning a school plan):|
