@@ -2,18 +2,21 @@
 [Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com)   |   [About]()
 
 <hr>
+<hr>
 
 ```
 Watercolor Seascape
 ```
 ![](IMG_2123.jpg)
 
+<hr>
 
 ```
 Surrealism
 ```
 ![](IMG_2146.jpg)
 
+<hr>
 
 ```
 Textile
@@ -21,10 +24,14 @@ Textile
 ![](IMG_1972.jpg)
 Medium: colored pencils, watercolor pencils, watercolor, fabric support.
 
+<hr>
+
 ```
 Radial Balance
 ```
 ![](IMG_2126.jpg)
+
+<hr>
 
 ```
 Linocut Printmaking
@@ -34,6 +41,8 @@ _"The Elemental Dragons"_
 
 Medium: elements of design, acryllic paint, colored pencil.
 
+<hr>
+
 ```
 Exploring a Theme: "The Race Against Time"
 ```
@@ -42,10 +51,14 @@ Medium: fire to burn edges, colored pencil, pencil.
 ![](IMG_2067.jpg)
 Medium: pencil, watercolor pencils, paint marker, drywall board.
 
+<hr>
+
 ```
 Pointillism
 ```
 ![](IMG_2069.jpg)
+
+<hr>
 
 ```
 Post Impressionist Artist: Paul Cezanne
@@ -54,10 +67,14 @@ Post Impressionist Artist: Paul Cezanne
 This work was inspired by Paul Cezanne's _Still Life with Apples and Pears_. The formalism of his artwork consisted of some elements that I used such as plates, pitcher, and the fruits. The value was low with lots of shading which I added to my work. The techniques used were layering colors to build up surfaces and outlining the forms for emphasis.
 Medium: Acryllic paint, colored pencil
 
+<hr>
+
 ```
 Charcoal and Zentangle
 ```
 ![](IMG_2124.jpg)
+
+<hr>
 
 ```
 Freedom
@@ -71,8 +88,8 @@ Page 1                     |  Page 2                  |
 :-------------------------:|:-------------------------:
 |![](IMG_2185.jpg)         | ![](IMG_2190.jpg)
 
-
-  <hr>
+<hr>
+<hr>
 
 ### IB Art
 ```
@@ -96,6 +113,7 @@ Final work:
 
 Medium: spray paint, styrofoam, stencils created from paper, toothpick.
 
+<hr>
 
 ```
 Identity Sculpture
@@ -105,10 +123,12 @@ Sketchbook                 |  Final                 |
 :-------------------------:|:-------------------------:
 ![](IMG_2181.jpg)         |  ![](IMG_2189.jpg)       |
 
+<hr>
 
 _"Gift"_
 This sculpture represents an aspect of my personal identity, which is my name, meaning "Gift".
 
+<hr>
 <hr>
 
 ### ART (BA)
@@ -118,13 +138,19 @@ AutoCAD
 
 
 
+<hr>
+
 ```
 Adobe Fresco/ Photoshop and After Effects
 ```
 ![](2_HALI_SquashStretchPose_Sept_17_21.gif)
 
+<hr>
+
 Anticipation, overlap, and follow through:
 ![](3_HALI_anticipation_followthrough_overlap.gif)
+
+<hr>
 
 Walk cycles
 
@@ -132,9 +158,9 @@ Feet                       |  Upper Body              |
 :-------------------------:|:-------------------------:
 ![](6_HALI.gif)            |  ![](7_Slowin_slowout.gif)|
 
+<hr>
 
 Character Design:
 ![](8_Timing_and_Secondary_Action.mp4)
-
 
 
