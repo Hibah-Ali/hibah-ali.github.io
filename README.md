@@ -65,7 +65,7 @@ medium: markers, paper.
 Post Impressionist Artist: Paul Cezanne
 ```
 ![](IMG_2070.jpg)
-This work was inspired by Paul Cezanne's _Still Life with Apples and Pears_. The formalism of his artwork consisted of some elements that I used such as plates, pitcher, and the fruits. The value was low with lots of shading which I added to my work. The techniques used were layering colors to build up surfaces and outlining the forms for emphasis.
+- This work was inspired by Paul Cezanne's _Still Life with Apples and Pears_. The formalism of his artwork consisted of some elements that I used such as plates, pitcher, and the fruits. The value was low with lots of shading which I added to my work. The techniques used were layering colors to build up surfaces and outlining the forms for emphasis.
 Medium: Acryllic paint, colored pencil
 
 <hr>
@@ -135,7 +135,8 @@ Identity Sculpture
 
 
 _"Gift"_
-This sculpture represents an aspect of my personal identity, which is my name, meaning "Gift".
+
+- This sculpture represents an aspect of my personal identity, which is my name, meaning "Gift".
 
 Medium: clay. 
 
