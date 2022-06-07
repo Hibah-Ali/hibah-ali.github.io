@@ -1,13 +1,16 @@
 ## Online Portfolio
+
 [Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com) 
 
 <hr>
 <hr>
 
 ### Experimentation:
+
 ```
 Watercolor Seascape
 ```
+
 ![](IMG_2123.jpg)
 
 Medium: watercolor and paper.
@@ -16,6 +19,7 @@ Medium: watercolor and paper.
 ```
 Surrealism
 ```
+
 ![](IMG_2146.jpg)
 
 Medium: graphite pencil and paper.
@@ -24,6 +28,7 @@ Medium: graphite pencil and paper.
 ```
 Textile
 ```
+
 ![](IMG_1972.jpg)
 
 Medium: colored pencils, watercolor pencils, watercolor, fabric support.
@@ -33,6 +38,7 @@ Medium: colored pencils, watercolor pencils, watercolor, fabric support.
 ```
 Radial Balance
 ```
+
 ![](IMG_2126.jpg)
 
 Medium: colored pencils, pen, tracing paper, paper.
@@ -41,7 +47,9 @@ Medium: colored pencils, pen, tracing paper, paper.
 ```
 Linocut Printmaking
 ```
+
 ![](IMG_2071.jpg)
+
 _"The Elemental Dragons"_
 
 Medium: elements of design, acryllic paint, colored pencil.
@@ -51,6 +59,7 @@ Medium: elements of design, acryllic paint, colored pencil.
 ```
 Exploring a Theme: "The Race Against Time"
 ```
+
 ![](IMG_2084.jpg)
 Medium: fire for burn effect, colored pencil, pencil.
 ![](IMG_2067.jpg)
@@ -61,14 +70,18 @@ Medium: pencil, watercolor pencils, paint marker, drywall board.
 ```
 Pointillism
 ```
+
 ![](IMG_2069.jpg)
+
 medium: markers, paper.
 <hr>
 
 ```
 Post Impressionist Artist: Paul Cezanne
 ```
+
 ![](IMG_2070.jpg)
+
 - This work was inspired by Paul Cezanne's _Still Life with Apples and Pears_. The formalism of his artwork consisted of some elements that I used such as plates, pitcher, and the fruits. The value was low with lots of shading which I added to my work. The techniques used were layering colors to build up surfaces and outlining the forms for emphasis.
 Medium: Acryllic paint, colored pencil
 
@@ -77,6 +90,7 @@ Medium: Acryllic paint, colored pencil
 ```
 Charcoal and Zentangle
 ```
+
 ![](IMG_2124.jpg)
 Medium: charcoal, sharpie pen.
 <hr>
@@ -84,6 +98,7 @@ Medium: charcoal, sharpie pen.
 ```
 Crochet
 ```
+
 ![](crochet.jpg)
 
 <hr>
@@ -124,6 +139,7 @@ Page 1                     |  Page 2                  |
 
 
 Final work:
+
 ![](IMG_2110.jpg)
 
 Medium: spray paint, styrofoam, stencils created from paper, toothpick.
@@ -179,6 +195,7 @@ Adobe Fresco/ Photoshop and After Effects
 <hr>
 
 Anticipation, overlap, and follow through:
+
 ![](3_HALI_anticipation_followthrough_overlap.gif)
 
 <hr>
@@ -192,6 +209,7 @@ Feet                       |  Upper Body              |
 <hr>
 
 Timing and secondary action:
+
 ![](8_chara.gif)
 
 <hr>
