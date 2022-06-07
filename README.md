@@ -174,9 +174,9 @@ AutoCAD
 ```
 Floor plan & furniture:
 
-Sketchbook                 |  Final                 |
+-                 |  -                 |
 :-------------------------:|:-------------------------:
-![](IMG_2181.jpg)         |  ![](IMG_2189.jpg)       |
+![](-)         |  ![](-)       |
 
 
 Primitive shapes:
