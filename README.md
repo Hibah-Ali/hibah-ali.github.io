@@ -82,13 +82,10 @@ Personal Theme with 3D Assemblage
 ```
 Spray paint Assemblage
 
-![](IMG_2150.heic)
-
-
-
-1             |  2
-:-------------------------:|:-------------------------:
-  |  
+![](IMG_2178.jpg)
+![](IMG_2179.jpg)
+![](IMG_2180.jpg)
+ 
 ![](IMG_2110.jpg)
 
 Medium: spray paint, styrofoam, stencils created from paper, toothpick.
