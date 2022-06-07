@@ -1,9 +1,10 @@
-### Online Portfolio
+## Online Portfolio
 [Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com)   |   [About]()
 
 <hr>
 <hr>
 
+### Experimentation:
 ```
 Watercolor Seascape
 ```
@@ -79,7 +80,7 @@ Medium: charcoal, sharpie pen.
 ```
 Crochet
 ```
-![](IMG_2124.jpg)
+![](crochet.jpg)
 
 <hr>
 
@@ -127,11 +128,10 @@ Medium: spray paint, styrofoam, stencils created from paper, toothpick.
 
 ```
 Identity Sculpture
-```
+``` 
 
-Sketchbook                 |  Final                 |
-:-------------------------:|:-------------------------:
-![](IMG_2181.jpg)         |  ![](IMG_2189.jpg)       |
+![](IMG_2181.jpg)
+![](IMG_2189.jpg)
 
 
 _"Gift"_
