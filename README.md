@@ -152,7 +152,7 @@ Medium: clay.
 ```
 AutoCAD
 ```
-Defining and solving problems- Redesigning a school plan:
+
 
 Floor plans and furniture:
 
@@ -160,9 +160,13 @@ Floor plans and furniture:
 ![](CH3-PROJ2_HALIModel.jpg)|![](CH3_EXC1.jpg)      |
 :-------------------------:|:-------------------------:
 ![](Project9-1-2_HALI.jpg)| ![](Dresser_Elevation_Midterm_Model.jpg)|
-
+:-------------------------:|:-------------------------:
+![](Quiz4_EXC13-8_HALI-Model.jpg)|![](Assign5_rug.jpg)|
 
 Replicating art:
+Replicating Art|Defining and solving problems (Redesigning a school plan):|
+:-------------------------:|:-------------------------:
+![](assignment7_HALI.jpg)| ![](Final_Project_HALI 13-Model 2.jpg)|
 
 
 <hr>
