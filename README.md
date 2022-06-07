@@ -98,10 +98,15 @@ Final work:
 
 Medium: spray paint, styrofoam, stencils created from paper, toothpick.
 
+
 ```
 Identity Sculpture
 ```
-![](IMG_2181.jpg)
+
+Sketchbook                 |  Final                 |
+:-------------------------:|:-------------------------:
+![](IMG_2181.jpg)         |  ![](IMG_2189.jpg)       |
+
 
 _"Gift"_
 This sculpture represents an aspect of my personal identity, which is my name, meaning "Gift".
