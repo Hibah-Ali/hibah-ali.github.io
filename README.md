@@ -169,8 +169,8 @@ Feet                       |  Upper Body              |
 
 <hr>
 
-Character Design:
-![](8_Timing_and_Secondary_Action.mp4)
+Timing and secondary action:
+![](8_chara.gif)
 
 <hr>
 
