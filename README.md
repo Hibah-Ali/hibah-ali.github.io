@@ -82,11 +82,15 @@ Personal Theme with 3D Assemblage
 ```
 Spray paint Assemblage
 
-![](IMG_2178.jpg)
-![](IMG_2179.jpg)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](IMG_2178.jpg)          |  ![](IMG_2179.jpg)
+
+
+
 ![](IMG_2180.jpg)
- 
 ![](IMG_2110.jpg)
+![](IMG_2187.jpg)
 
 Medium: spray paint, styrofoam, stencils created from paper, toothpick.
 
