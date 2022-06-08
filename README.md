@@ -33,7 +33,7 @@ Textile
 
 ![](IMG_1972.jpg)
 
-$
+-
 Medium: colored pencils, watercolor pencils, watercolor, fabric support.
 
 <hr>
@@ -67,7 +67,7 @@ Exploring a Theme: "The Race Against Time"
 
 ![](IMG_2084.jpg)
 
-$
+-
 Medium: fire for burn effect, colored pencil, pencil.
 ![](IMG_2067.jpg)
 
@@ -92,7 +92,7 @@ Post Impressionist Artist: Paul Cezanne
 
 ![](IMG_2070.jpg)
 
-$
+-
 - This work was inspired by Paul Cezanne's _Still Life with Apples and Pears_. The formalism of his artwork consisted of some elements that I used such as plates, pitcher, and the fruits. The value was low with lots of shading which I added to my work. The techniques used were layering colors to build up surfaces and outlining the forms for emphasis.
 Medium: Acryllic paint, colored pencil
 
@@ -156,7 +156,7 @@ Final work:
 
 ![](IMG_2110.jpg)
 
-$
+-
 Medium: spray paint, styrofoam, stencils created from paper, toothpick.
 
 <hr>
@@ -170,7 +170,7 @@ Identity Sculpture
 
 
 _"Gift"_
-$
+-
 
 - This sculpture represents an aspect of my personal identity, which is my name, meaning "Gift".
 
