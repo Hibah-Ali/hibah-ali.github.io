@@ -214,5 +214,5 @@ Depicting a theme: "The Race Against Time"
 :-------------------------:|:-----------------------------------------------------------------------------------:
 
 ![](IMG_2067.jpg) <br /> 20x16 in. <br />  Medium: pencil, watercolor pencils, paint marker, drywall board. 
-
+ 
 <hr>
