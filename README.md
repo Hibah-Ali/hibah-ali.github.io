@@ -192,10 +192,9 @@ AutoCAD: Computer-Aided Designs
 Floor plans and furniture:
 
 
-|![](CH3-PROJ2_HALIModel.jpg)|![](CH3_EXC1.jpg)      |
+|![](CH3-PROJ2_HALIModel.jpg) <br /> ![](CH3_EXC1.jpg) <br /> ![](Project9-1-2_HALI.jpg)| ![](Dresser_Elevation_Midterm_Model.jpg) <br /> ![](Quiz4_EXC13-8_HALI-Model.jpg) <br /> ![](Assign5_rug.jpg)
 |:-------------------------:|:-------------------------:|
-|![](Project9-1-2_HALI.jpg) | ![](Dresser_Elevation_Midterm_Model.jpg)|
-|![](Quiz4_EXC13-8_HALI-Model.jpg)|![](Assign5_rug.jpg)|
+
 
 Replicating art:
 
