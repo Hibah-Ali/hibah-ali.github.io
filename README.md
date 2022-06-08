@@ -3,7 +3,7 @@
 [Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com) 
 
 ```
-Animation with Adobe Fresco, Photoshop, & After Effects.
+Animation with Adobe Fresco, Photoshop, & After Effects
 ```
 Squash, stretch, and pose:
 
@@ -197,15 +197,20 @@ Floor plans and furniture:
 
 
 Replicating art:
-
-Replicating Art|Defining and solving problems: Redesigning a school plan:|
+![](art.jpg)  <br /> (from www.artfire.com) | ![](assignment7_HALI.jpg)|
 :-------------------------:|:-------------------------:
-![](assignment7_HALI.jpg)| ![](Final_Project_HALI.jpg)|
+
+
+Redesign:
+
+![](pcep.jpg) | ![](Final_Project_HALI.jpg)|
+:-------------------------:|:-------------------------:
+Features that needed improvement: more efficient crosswalk for students & buildings closer for easier access and transportation. <br /> Other considerations: avoid cutting down trees, create a design that would be efficient to build. | Improvements: utilized the three roads for each parking lot in each school to prevent traffic blockage, easier transportation for students.  |
 
 <hr>
 
 ```
-Depicting a theme: "The Race Against Time".
+Depicting a theme: "The Race Against Time"
 ```
 ![](IMG_2084.jpg) <br /> 8x12 in. |  This hourglass embodies life. The red liquid in the hourglass signifies blood, and the crack represents the fleeting nature of life and how it is finite. <br />  Medium: fire for burn effect, colored pencil, pencil.|
 :-------------------------:|:-----------------------------------------------------------------------------------:
