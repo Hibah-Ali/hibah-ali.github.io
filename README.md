@@ -2,10 +2,7 @@
 
 [Home](https://hibah-ali.github.io/)    |   [Email](mailto:hibahalei@gmail.com) 
 
-<hr>
-<hr>
-
-### Animation
+### _Animation
 
 ```
 Adobe Fresco/ Photoshop and After Effects
@@ -43,7 +40,7 @@ Timing and secondary action
 <hr>
 
 
-### Experimentation:
+### _Experimentation:
 
 ```
 A Theme: "The Race Against Time"
@@ -158,7 +155,7 @@ Medium: charcoal, colored pencil, marker, paper support.
 <hr>
 <hr>
 
-### IB Art
+### _IB Art
 ```
 Personal Theme with 3D Assemblage
 ```
