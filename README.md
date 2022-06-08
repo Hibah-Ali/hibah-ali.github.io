@@ -10,6 +10,7 @@
 ```
 Adobe Fresco/ Photoshop and After Effects
 ```
+Squash, stretch, and pose
 
 ![](2_HALI_SquashStretchPose_Sept_17_21.gif)
 
@@ -17,7 +18,7 @@ Adobe Fresco/ Photoshop and After Effects
 
 <hr>
 
-Anticipation, overlap, and follow through:
+Anticipation, overlap, and follow through
 
 ![](3_HALI_anticipation_followthrough_overlap.gif)
 
@@ -25,15 +26,15 @@ Anticipation, overlap, and follow through:
 
 <hr>
 
-Walk cycles 
+Walk cycles
 
-Feet                       |  Upper Body              |
+Feet                       |  Upper Body               |
 :-------------------------:|:-------------------------:
 ![](6_HALI.gif) 720x480   |  ![](7_Slowin_slowout.gif) 720x480|
 
 <hr>
 
-Timing and secondary action:
+Timing and secondary action
 
 ![](8_chara.gif)
 
