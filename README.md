@@ -33,8 +33,8 @@ Timing and secondary action:
 <hr>
 
 
-|This is a depiction of multiple concepts; anticipation, overlap, and follow through + squash, stretch, and pose: |  ![](3_HALI_anticipation_followthrough_overlap.gif) |
-|:-----------------------------------------------------:|:----------------------------------------------------:|
+This is a depiction of multiple concepts; anticipation, overlap, and follow through + squash, stretch, and pose: |  ![](3_HALI_anticipation_followthrough_overlap.gif) 
+:-------------------------:|:-------------------------:
 
 ###### 720x480p 
 <hr>
