@@ -5,7 +5,7 @@
 ### _Animation_
 
 ```
-Adobe Fresco/ Photoshop and After Effects
+Adobe Fresco, Photoshop, After Effects
 ```
 Squash, stretch, and pose
 
