@@ -5,6 +5,43 @@
 <hr>
 <hr>
 
+### Animation
+
+```
+Adobe Fresco/ Photoshop and After Effects
+```
+
+![](2_HALI_SquashStretchPose_Sept_17_21.gif)
+
+720x480
+
+<hr>
+
+Anticipation, overlap, and follow through:
+
+![](3_HALI_anticipation_followthrough_overlap.gif)
+
+720x480
+
+<hr>
+
+Walk cycles 
+
+Feet                       |  Upper Body              |
+:-------------------------:|:-------------------------:
+![](6_HALI.gif) 720x480   |  ![](7_Slowin_slowout.gif) 720x480|
+
+<hr>
+
+Timing and secondary action:
+
+![](8_chara.gif)
+
+720x480
+
+<hr>
+
+
 ### Experimentation:
 
 ```
@@ -179,7 +216,7 @@ Medium: clay.
 <hr>
 <hr>
 
-### ART (BA)
+### Computer Aided Designs
 
 ```
 AutoCAD
@@ -200,38 +237,5 @@ Replicating Art|Defining and solving problems: Redesigning a school plan:|
 :-------------------------:|:-------------------------:
 ![](assignment7_HALI.jpg)| ![](Final_Project_HALI.jpg)|
 
-
-<hr>
-```
-Adobe Fresco/ Photoshop and After Effects
-```
-
-![](2_HALI_SquashStretchPose_Sept_17_21.gif)
-
-720x480
-
-<hr>
-
-Anticipation, overlap, and follow through:
-
-![](3_HALI_anticipation_followthrough_overlap.gif)
-
-720x480
-
-<hr>
-
-Walk cycles 
-
-Feet                       |  Upper Body              |
-:-------------------------:|:-------------------------:
-![](6_HALI.gif) 720x480   |  ![](7_Slowin_slowout.gif) 720x480|
-
-<hr>
-
-Timing and secondary action:
-
-![](8_chara.gif)
-
-720x480
 
 <hr>
