@@ -14,7 +14,7 @@ Squash, stretch, and pose
 
 ![](2_HALI_SquashStretchPose_Sept_17_21.gif)
 
-720x480
+720x480p 
 
 <hr>
 
@@ -22,7 +22,7 @@ Anticipation, overlap, and follow through
 
 ![](3_HALI_anticipation_followthrough_overlap.gif)
 
-720x480
+720x480p
 
 <hr>
 
@@ -30,7 +30,7 @@ Walk cycles
 
 Feet                       |  Upper Body               |
 :-------------------------:|:-------------------------:
-![](6_HALI.gif) 720x480   |  ![](7_Slowin_slowout.gif) 720x480|
+![](6_HALI.gif) 720x480p  |  ![](7_Slowin_slowout.gif) 720x480p|
 
 <hr>
 
@@ -38,7 +38,7 @@ Timing and secondary action
 
 ![](8_chara.gif)
 
-720x480
+720x480 in.
 
 <hr>
 
@@ -46,13 +46,13 @@ Timing and secondary action
 ### Experimentation:
 
 ```
-Watercolor Seascape
+A Theme: "The Race Against Time"
 ```
+![](IMG_2084.jpg) <br /> 8x12 in. |  This hourglass depicts life. The red liquid in the hourglass signifies blood, and the crack represents the fleeting nature of life and how it is finite. <br />  Medium: fire for burn effect, colored pencil, pencil.|
+:-------------------------:|:-----------------------------------------------------------------------------------:
 
-![](IMG_2123.jpg)
+![](IMG_2067.jpg) <br /> 20x16 in. <br />  Medium: pencil, watercolor pencils, paint marker, drywall board. 
 
-12x19
-Medium: watercolor and paper.
 <hr>
 
 ```
@@ -61,18 +61,18 @@ Surrealism
 
 ![](IMG_2146.jpg)
 
-12x18
-Medium: graphite pencil and paper.
+12x18 in. <br /> Medium: graphite pencil and paper.
+
 <hr>
 
 ```
-Textile
+Watercolor 
 ```
 
-![](IMG_1972.jpg)
-
--
-Medium: colored pencils, watercolor pencils, watercolor, fabric support.
+Seascape                   |  Textile               |
+:-------------------------:|:-------------------------:
+![](IMG_2123.jpg) 12x19 in.|  ![](IMG_1972.jpg)       |
+Medium: watercolor and paper.| Medium: colored pencils, watercolor pencils, watercolor, fabric support.|
 
 <hr>
 
@@ -96,21 +96,6 @@ Linocut Printmaking
 _"The Elemental Dragons"_
 
 Medium: elements of design, acryllic paint, colored pencil.
-
-<hr>
-
-```
-Exploring a Theme: "The Race Against Time"
-```
-
-![](IMG_2084.jpg)
-
--
-Medium: fire for burn effect, colored pencil, pencil.
-![](IMG_2067.jpg)
-
-20x16
-Medium: pencil, watercolor pencils, paint marker, drywall board.
 
 <hr>
 
