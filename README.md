@@ -177,7 +177,7 @@ Post Impressionist Artist: Paul Cezanne
 
 ###### 12x9.5 in. 
 This work was inspired by Paul Cezanne's _Still Life with Apples and Pears_. The formalism of his artwork consisted of some elements that I used such as plates, pitcher, and the fruits. The value was low with lots of shading which I added to my work. The techniques used were layering colors to build up surfaces and outlining the forms for emphasis.
-Medium: Acryllic paint.
+<br /> Medium: Acryllic paint, watercolor.
 
 <hr>
 
