@@ -201,7 +201,7 @@ Redesign:
 
 ![](pcep.jpg) | ![](Final_Project_HALI.jpg)|
 :-------------------------:|:-------------------------:
-Features that needed improvement: more efficient crosswalk for students & buildings closer for easier access and transportation. <br /> Other considerations: avoid cutting down trees, create a design that would be efficient to build. | Improvements: utilized the three roads for each parking lot in each school to prevent traffic blockage, easier transportation for students.  |
+Features that needed improvement: more efficient crosswalk for students & buildings closer for easier access and transportation. <br /> Other considerations: avoid cutting down trees, create a design that would be efficient to build based on previous features. | Improvements: utilized the three roads for each parking lot in each school to prevent traffic blockage, easier transportation for students.  |
 
 <hr>
 
