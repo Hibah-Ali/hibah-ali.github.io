@@ -5,28 +5,50 @@
 <hr>
 
 ```
-Animation with Adobe Fresco, Photoshop, & After Effects
+Animation
 ```
-Squash, stretch, and pose:
+_Squash, stretch, and pose_
 
 ![](2_HALI_SquashStretchPose_Sept_17_21.gif)
+
+Year: 2021
+
+Medium: Adobe Creative Suite 
+
+Size: 720x480p
+
+This was a work created with adobe fresco and after effects. It demonstrates multiple shades/values to emphasize shape, and implied texture.
+SAGA 215
 
 ###### 720x480p 
 
 <hr>
 
-Walk cycles:
+_Basic Concepts_
+Topic: Walk cycles
 
 Lower body                 |  Lower + upper body        |
 :-------------------------:|:-------------------------:
 ![](6_HALI.gif)            |  ![](7_Slowin_slowout.gif) |
 
+Year: 2021
+Medium: Adobe Creative Suite 
+Size: 720x480p
+This work was created with adobe fresco and after effects, and demonstrates human form/mannequin and movement, weight distribution, and body language (upright).
+SAGA 215
+
 ###### 720x480p, 720x480p 
 <hr>
-
-Timing and secondary action:
+_Character Design_
+Topic: Timing and secondary action:
 
 ![](8_chara.gif)
+
+Year: 2021
+Medium: Adobe Creative Suite 
+Size: 720x480p
+This work was created with adobe fresco and after effects, and displays movement through contour line drawing, and rhythm. 
+SAGA 215
 
 ###### 720x480p 
 
@@ -37,7 +59,8 @@ Timing and secondary action:
 
 ###### 720x480p 
 
-(SAGA 215 - 	2D Animation)
+SAGA 215
+
 <hr>
 
 
