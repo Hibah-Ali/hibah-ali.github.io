@@ -115,7 +115,7 @@ Watercolor
 
 Seascape                   |  Textile               |
 :-------------------------:|:-------------------------:
-![](IMG_2123.jpg) 12x19 in.|  ![](IMG_1972.jpg)       |
+![](IMG_2123.jpg) 12x19 in.|  ![](IMG_1972.jpg) 8.5x10 in.|
 Medium: watercolor and paper.| Medium: colored pencils, watercolor pencils, watercolor, fabric support.|
 
 <hr>
