@@ -27,7 +27,7 @@ SAGA 215
 _Basic Concepts_
 Topic: Walk cycles
 
-Lower body                 |  Lower + upper body        |
+                           |                            |
 :-------------------------:|:-------------------------:
 ![](6_HALI.gif)            |  ![](7_Slowin_slowout.gif) |
 
