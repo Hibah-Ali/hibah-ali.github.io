@@ -27,7 +27,7 @@ SAGA 215
 _Basic Concepts_
 Topic: Walk cycles
 
-movement
+_Movement_
 
 ![](7_Slowin_slowout.gif)
 
