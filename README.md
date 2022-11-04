@@ -28,6 +28,7 @@ _Basic Concepts_
 : Walk cycles
 
 _Movement_
+|Lower body                 |Lower + Upper movement     |
 |:-------------------------:|:-------------------------:|
 |![](6_HALI.gif)            | ![](7_Slowin_slowout.gif)|
 
