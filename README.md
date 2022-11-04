@@ -25,10 +25,10 @@ SAGA 215
 <hr>
 
 _Basic Concepts_
-Topic: Walk cycles
+: Walk cycles
 
 _Movement_
-
+![](6_HALI.gif)
 ![](7_Slowin_slowout.gif)
 
 Year: 2021
