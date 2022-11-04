@@ -28,8 +28,8 @@ _Basic Concepts_
 : Walk cycles
 
 _Movement_
-![](6_HALI.gif)
-![](7_Slowin_slowout.gif)
+|:-------------------------:|:-------------------------:|
+|![](6_HALI.gif)            | ![](7_Slowin_slowout.gif)|
 
 Year: 2021
 Medium: Adobe Creative Suite 
