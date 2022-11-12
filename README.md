@@ -17,8 +17,8 @@ Size: 720x480p
 
 This was a work created with adobe fresco and after effects
 
-*Shades/values to emphasize shape
-*mplied texture.
+* Shades/values to emphasize shape
+* implied texture.
 
 
 
