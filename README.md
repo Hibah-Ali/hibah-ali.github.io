@@ -25,8 +25,11 @@ Walk cycles
 
 <hr>
 
-Walk cycles & Movement
-![](7_Slowin_slowout.gif)
+
+|Lower body                 |Lower + Upper body movement|
+|:-------------------------:|:-------------------------:|
+|![](6_HALI.gif)            | ![](7_Slowin_slowout.gif)|
+
 
 Year: 2021
 Medium: Adobe Creative Suite 
