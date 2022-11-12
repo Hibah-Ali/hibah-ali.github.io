@@ -11,15 +11,14 @@ _Squash, stretch, pose_
 
 ![](2_HALI_SquashStretchPose_Sept_17_21.gif)
 
-2021, Adobe, SAGA 215 
-
+Year: 2021
+Medium: Adobe Creative Suite
 Size: 720x480p
+This was a work created with adobe fresco and after effects. It demonstrates multiple shades/values to emphasize shape, and implied texture. SAGA 215
+720x480p
 
-This was a work created with adobe fresco and after effects
-
-* Shades/values to emphasize shape
-* implied texture.
-
+Basic Concepts
+Walk cycles
 
 
 ###### 720x480p 
