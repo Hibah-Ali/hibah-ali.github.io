@@ -24,13 +24,8 @@ SAGA 215
 
 <hr>
 
-_Basic Concepts_
-: Walk cycles
-
-_Movement_
-|Lower body                 |Lower + Upper body movement     |
-|:-------------------------:|:-------------------------:|
-|![](6_HALI.gif)            | ![](7_Slowin_slowout.gif)|
+Walk cycles & Movement
+![](7_Slowin_slowout.gif)
 
 Year: 2021
 Medium: Adobe Creative Suite 
@@ -40,8 +35,8 @@ SAGA 215
 
 ###### 720x480p, 720x480p 
 <hr>
-_Character Design_
-Topic: Timing and secondary action:
+
+Timing and secondary action:
 
 ![](8_chara.gif)
 
