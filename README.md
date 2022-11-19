@@ -13,7 +13,7 @@ Squash, stretch, and pose
 
 Year: 2021
 
-This was a work created with adobe fresco and after effects. It demonstrates the use of shades and values to emphasize shape and implied texture. 
+This was a work created with adobe fresco and after effects.
 
 SAGA 215
 
