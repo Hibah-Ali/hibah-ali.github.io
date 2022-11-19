@@ -19,18 +19,3 @@ SAGA 215
 
 ###### 720x480p 
 
-
-<hr>
-
-Timing and secondary action:
-
-![](8_chara.gif)
-
-Year: 2021
-
-This work was created with adobe fresco and after effects. It displays movement through contour line drawing and rhythm. 
-
-SAGA 215
-
-###### 720x480p 
-
