@@ -13,9 +13,10 @@ Squash, stretch, and pose
 
 Year: 2021
 
+SAGA 215
+
 This was a work created with adobe fresco and after effects. It demonstrates the use of shades and values to emphasize shape and implied texture. 
 
-SAGA 215
 ###### 720x480p 
 
 
@@ -27,8 +28,9 @@ Timing and secondary action:
 
 Year: 2021
 
+SAGA 215
+
 This work was created with adobe fresco and after effects. It displays movement through contour line drawing and rhythm. 
 
-SAGA 215
 ###### 720x480p 
 
