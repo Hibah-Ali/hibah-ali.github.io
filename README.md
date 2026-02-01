@@ -68,7 +68,6 @@ SAGA 215
 Identity Sculpture (IB art)
 ``` 
 
-![](IMG_2181.jpg)
 ![](IMG_2189.jpg)
 
 ###### 3x3x2.5 in. 
@@ -110,9 +109,9 @@ Page 1                     |  Page 2                  |
 :-------------------------:|:-------------------------:
 ![](IMG_2182.jpg)          |  ![](IMG_2184.jpg)       |  
 
-|Page 3                    |  Final work 
-:-------------------------:|:-------------------------:
-|![](IMG_2185.jpg)         | ![](IMG_2190.jpg) 18x12 in.
+|Page 3                    |  
+:-------------------------:|:
+|![](IMG_2185.jpg)         |
 
 
 Medium: charcoal, colored pencil, marker, paper support.
